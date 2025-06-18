@@ -36,8 +36,8 @@ A Go backend API built with **Gin** and **Supabase** that allows users to:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Ik-cyber/markdown-ai-app.git
+cd markdown-ai-app
 ```
 
 ### Environment Variables
